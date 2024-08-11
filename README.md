@@ -115,5 +115,5 @@ npm run dev
 - **:avocado: [Sarayut Aiamaurai](https://github.com/SarayutBz)** - Project Lead and Developer :shipit:
 - **:takeout_box: [Wattanapongphan Promnoi ](https://github.com/Wattanapongphan)** - Money Management page :man_technologist:
 - **:frog: [Wongsaphat Nagmaung ](https://github.com/Bee34949)** - Documentation Manager :pencil:
-- **:frog: [Panjapon Puakinsang ](https://github.com/PanjaponPuakinsang)** - Documentation Manager :pencil:
-- **:frog: [Noratee tantala ](https://github.com/norateetantala)** -  Research and Information Gathering :pencil:
+- **:person_in_tuxedo: [Panjapon Puakinsang ](https://github.com/PanjaponPuakinsang)** - Documentation Manager :pencil:
+- **:video_game: [Noratee tantala ](https://github.com/norateetantala)** -  Research and Information Gathering :mag:
